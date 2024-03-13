@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: 공부 자료 2.0
 ---
+시험 공부 관련 자료를 올립니다.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+사용한 프레임워크:
+Quartz 4.0 + Obisidian
